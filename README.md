@@ -1,0 +1,1 @@
+Developed a real-time chat application using Node.js and Socket.IO, featuring live messaging, join/leave alerts, and audio notifications. Leveraged websocket-based communication to enable instant, low-latency interaction between multiple clients, ensuring a seamless and engaging user experience.
